@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_EMG_SN.PcbDoc   2018-02-01  20:22:01
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_EMG_SN.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          97               10.05 Inch (255.16 mm)
+T2        35.43mil (0.89992mm)     Round          8                1.86 Inch (47.14 mm)
+---------------------------------------------------------------------------
+Totals                                            105              11.90 Inch (302.30 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

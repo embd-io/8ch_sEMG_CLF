@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_EMG_SN.PrjPcb]
+   Generated File[PCB_EMG_SN.TXT]
+   Generated File[PCB_EMG_SN.LDP]
+   Generated File[PCB_EMG_SN.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:22:01 On 2018-02-01
